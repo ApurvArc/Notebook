@@ -3,6 +3,9 @@
 A multi-user Notes REST API built with **Node.js**, **Express 5**, and **MongoDB**.  
 Supports JWT authentication, full CRUD on notes, sharing, pinning, full-text search, pagination, and OpenAPI docs.
 
+**Live URL:** [https://notebook-o5yg.onrender.com](https://notebook-o5yg.onrender.com)  
+**OpenAPI Spec:** [https://notebook-o5yg.onrender.com/openapi.json](https://notebook-o5yg.onrender.com/openapi.json)
+
 ---
 
 ## Table of Contents
